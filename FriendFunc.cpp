@@ -1,8 +1,8 @@
-#include <iostream>
+#include<bits/stdc++.h>
 #include<cstdlib>
 #include<cstring>
 using namespace std;
-// Anirudh Sharma 2K20/SE/17
+//Anirudh Sharma 2K20/SE/17
 
 class friendfunc2;
 
@@ -49,4 +49,5 @@ int main()
     float ans = average(obj1,obj2);
 
     cout << "The Average is : "<< ans << endl;
+    return 0;
 }
